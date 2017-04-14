@@ -24,5 +24,10 @@ namespace 全局异常获取
         {
             InitializeComponent();
         }
+
+        private void btnTest_Click(object sender, RoutedEventArgs e)
+        {
+            throw new Exception("我是一个异常");
+        }
     }
 }

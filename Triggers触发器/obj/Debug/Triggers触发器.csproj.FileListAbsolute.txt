@@ -1,0 +1,14 @@
+D:\GitHub\WPF\Triggers触发器\bin\Debug\Triggers触发器.exe.config
+D:\GitHub\WPF\Triggers触发器\bin\Debug\Triggers触发器.exe
+D:\GitHub\WPF\Triggers触发器\bin\Debug\Triggers触发器.pdb
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.csprojResolveAssemblyReference.cache
+D:\GitHub\WPF\Triggers触发器\obj\Debug\MainWindow.g.cs
+D:\GitHub\WPF\Triggers触发器\obj\Debug\App.g.cs
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器_MarkupCompile.cache
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器_MarkupCompile.lref
+D:\GitHub\WPF\Triggers触发器\obj\Debug\MainWindow.baml
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.g.resources
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.Properties.Resources.resources
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.csproj.GenerateResource.Cache
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.exe
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.pdb

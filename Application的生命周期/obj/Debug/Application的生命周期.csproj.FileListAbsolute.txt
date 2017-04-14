@@ -12,3 +12,17 @@ D:\Git\WPF练习\Application的生命周期\obj\Debug\Application的生命周期
 D:\Git\WPF练习\Application的生命周期\obj\Debug\Application的生命周期.csproj.GenerateResource.Cache
 D:\Git\WPF练习\Application的生命周期\obj\Debug\Application的生命周期.exe
 D:\Git\WPF练习\Application的生命周期\obj\Debug\Application的生命周期.pdb
+D:\GitHub\WPF\Application的生命周期\bin\Debug\Application的生命周期.exe.config
+D:\GitHub\WPF\Application的生命周期\bin\Debug\Application的生命周期.exe
+D:\GitHub\WPF\Application的生命周期\bin\Debug\Application的生命周期.pdb
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期.csprojResolveAssemblyReference.cache
+D:\GitHub\WPF\Application的生命周期\obj\Debug\MainWindow.g.cs
+D:\GitHub\WPF\Application的生命周期\obj\Debug\App.g.cs
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期_MarkupCompile.cache
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期_MarkupCompile.lref
+D:\GitHub\WPF\Application的生命周期\obj\Debug\MainWindow.baml
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期.g.resources
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期.Properties.Resources.resources
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期.csproj.GenerateResource.Cache
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期.exe
+D:\GitHub\WPF\Application的生命周期\obj\Debug\Application的生命周期.pdb
