@@ -1,0 +1,14 @@
+D:\GitHub\WPF\全局异常获取\bin\Release\全局异常获取.exe.config
+D:\GitHub\WPF\全局异常获取\bin\Release\全局异常获取.exe
+D:\GitHub\WPF\全局异常获取\bin\Release\全局异常获取.pdb
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取.csprojResolveAssemblyReference.cache
+D:\GitHub\WPF\全局异常获取\obj\Release\MainWindow.g.cs
+D:\GitHub\WPF\全局异常获取\obj\Release\App.g.cs
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取_MarkupCompile.cache
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取_MarkupCompile.lref
+D:\GitHub\WPF\全局异常获取\obj\Release\MainWindow.baml
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取.g.resources
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取.Properties.Resources.resources
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取.csproj.GenerateResource.Cache
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取.exe
+D:\GitHub\WPF\全局异常获取\obj\Release\全局异常获取.pdb

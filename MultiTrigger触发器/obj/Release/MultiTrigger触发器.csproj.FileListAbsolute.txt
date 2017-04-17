@@ -1,0 +1,13 @@
+D:\GitHub\WPF\MultiTrigger触发器\bin\Release\MultiTrigger触发器.exe.config
+D:\GitHub\WPF\MultiTrigger触发器\bin\Release\MultiTrigger触发器.exe
+D:\GitHub\WPF\MultiTrigger触发器\bin\Release\MultiTrigger触发器.pdb
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MainWindow.g.cs
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\App.g.cs
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MultiTrigger触发器_MarkupCompile.cache
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MultiTrigger触发器_MarkupCompile.lref
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MainWindow.baml
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MultiTrigger触发器.g.resources
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MultiTrigger触发器.Properties.Resources.resources
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MultiTrigger触发器.csproj.GenerateResource.Cache
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MultiTrigger触发器.exe
+D:\GitHub\WPF\MultiTrigger触发器\obj\Release\MultiTrigger触发器.pdb

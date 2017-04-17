@@ -14,7 +14,6 @@ D:\Git\WPF练习\全局异常获取\obj\Debug\全局异常获取.pdb
 D:\GitHub\WPF\全局异常获取\bin\Debug\全局异常获取.exe.config
 D:\GitHub\WPF\全局异常获取\bin\Debug\全局异常获取.exe
 D:\GitHub\WPF\全局异常获取\bin\Debug\全局异常获取.pdb
-D:\GitHub\WPF\全局异常获取\obj\Debug\全局异常获取.csprojResolveAssemblyReference.cache
 D:\GitHub\WPF\全局异常获取\obj\Debug\MainWindow.g.cs
 D:\GitHub\WPF\全局异常获取\obj\Debug\App.g.cs
 D:\GitHub\WPF\全局异常获取\obj\Debug\全局异常获取_MarkupCompile.cache

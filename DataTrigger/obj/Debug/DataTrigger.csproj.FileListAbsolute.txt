@@ -1,0 +1,14 @@
+D:\GitHub\WPF\DataTrigger\bin\Debug\DataTrigger.exe.config
+D:\GitHub\WPF\DataTrigger\bin\Debug\DataTrigger.exe
+D:\GitHub\WPF\DataTrigger\bin\Debug\DataTrigger.pdb
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger.csprojResolveAssemblyReference.cache
+D:\GitHub\WPF\DataTrigger\obj\Debug\MainWindow.g.cs
+D:\GitHub\WPF\DataTrigger\obj\Debug\App.g.cs
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger_MarkupCompile.cache
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger_MarkupCompile.lref
+D:\GitHub\WPF\DataTrigger\obj\Debug\MainWindow.baml
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger.g.resources
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger.Properties.Resources.resources
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger.csproj.GenerateResource.Cache
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger.exe
+D:\GitHub\WPF\DataTrigger\obj\Debug\DataTrigger.pdb

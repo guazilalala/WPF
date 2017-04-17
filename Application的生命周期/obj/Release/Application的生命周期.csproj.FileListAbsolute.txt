@@ -1,0 +1,13 @@
+D:\GitHub\WPF\Application的生命周期\bin\Release\Application的生命周期.exe.config
+D:\GitHub\WPF\Application的生命周期\bin\Release\Application的生命周期.exe
+D:\GitHub\WPF\Application的生命周期\bin\Release\Application的生命周期.pdb
+D:\GitHub\WPF\Application的生命周期\obj\Release\MainWindow.g.cs
+D:\GitHub\WPF\Application的生命周期\obj\Release\App.g.cs
+D:\GitHub\WPF\Application的生命周期\obj\Release\Application的生命周期_MarkupCompile.cache
+D:\GitHub\WPF\Application的生命周期\obj\Release\Application的生命周期_MarkupCompile.lref
+D:\GitHub\WPF\Application的生命周期\obj\Release\MainWindow.baml
+D:\GitHub\WPF\Application的生命周期\obj\Release\Application的生命周期.g.resources
+D:\GitHub\WPF\Application的生命周期\obj\Release\Application的生命周期.Properties.Resources.resources
+D:\GitHub\WPF\Application的生命周期\obj\Release\Application的生命周期.csproj.GenerateResource.Cache
+D:\GitHub\WPF\Application的生命周期\obj\Release\Application的生命周期.exe
+D:\GitHub\WPF\Application的生命周期\obj\Release\Application的生命周期.pdb

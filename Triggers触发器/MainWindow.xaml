@@ -7,17 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Window.Resources>
-        <Style x:Key="childStyle" TargetType="Button">
-            <Setter Property="Background" Value="BurlyWood"></Setter>
-            <Style.Triggers>
-                <!-- 当IsMouseOver的时候，Button颜色变成粉色 -->
-                <Trigger Property="IsMouseOver" Value="True">
-                    <Setter Property="Background" Value="Pink"></Setter>
-                </Trigger>
-            </Style.Triggers>
-        </Style>
+        
     </Window.Resources>
     <Grid>
-        <Button Style="{StaticResource ResourceKey=childStyle}" Content="一线码农"></Button>
+        <Button Style="{DynamicResource ResourceKey=childStyle}" Content="一线码农">
+            <Button.Resources>
+                <Style x:Key="childStyle" TargetType="Button">
+                    <Setter Property="Background" Value="BurlyWood"></Setter>
+                    <Style.Triggers>
+                        <!-- 当IsMouseOver的时候，Button颜色变成粉色 -->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Pink"></Setter>
+                            <Setter Property="Foreground" Value="Red"></Setter>
+                            <Setter Property="FontSize" Value="32"></Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Resources>
+        </Button>
     </Grid>
 </Window>

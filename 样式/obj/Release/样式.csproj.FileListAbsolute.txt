@@ -1,0 +1,13 @@
+D:\GitHub\WPF\样式\bin\Release\样式.exe.config
+D:\GitHub\WPF\样式\bin\Release\样式.exe
+D:\GitHub\WPF\样式\bin\Release\样式.pdb
+D:\GitHub\WPF\样式\obj\Release\MainWindow.g.cs
+D:\GitHub\WPF\样式\obj\Release\App.g.cs
+D:\GitHub\WPF\样式\obj\Release\样式_MarkupCompile.cache
+D:\GitHub\WPF\样式\obj\Release\样式_MarkupCompile.lref
+D:\GitHub\WPF\样式\obj\Release\MainWindow.baml
+D:\GitHub\WPF\样式\obj\Release\样式.g.resources
+D:\GitHub\WPF\样式\obj\Release\样式.Properties.Resources.resources
+D:\GitHub\WPF\样式\obj\Release\样式.csproj.GenerateResource.Cache
+D:\GitHub\WPF\样式\obj\Release\样式.exe
+D:\GitHub\WPF\样式\obj\Release\样式.pdb

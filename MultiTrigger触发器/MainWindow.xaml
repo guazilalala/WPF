@@ -1,0 +1,28 @@
+﻿<Window x:Class="MultiTrigger触发器.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultiTrigger触发器"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style x:Key="childStyple" TargetType="Button">
+            <Setter Property="Background" Value="Red"></Setter>
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="IsMouseOver" Value="True"></Condition>
+                        <Condition Property="IsPressed" Value="True"></Condition>
+                    </MultiTrigger.Conditions>
+                    <Setter Property="Background" Value="Green"></Setter>
+                    <Setter Property="FontSize" Value="24"></Setter>
+                    <Setter Property="Foreground" Value="Green"></Setter>
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button Style="{StaticResource ResourceKey=childStyple}" Content="一线码农"></Button>
+    </Grid>
+</Window>
