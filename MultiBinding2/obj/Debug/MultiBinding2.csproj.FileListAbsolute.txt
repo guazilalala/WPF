@@ -1,0 +1,15 @@
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2.csprojResolveAssemblyReference.cache
+D:\GitHub\WPF\MultiBinding2\obj\Debug\App.g.cs
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2_MarkupCompile.cache
+D:\GitHub\WPF\MultiBinding2\bin\Debug\MultiBinding2.exe.config
+D:\GitHub\WPF\MultiBinding2\bin\Debug\MultiBinding2.exe
+D:\GitHub\WPF\MultiBinding2\bin\Debug\MultiBinding2.pdb
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MainWindow.g.cs
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2_MarkupCompile.lref
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MainWindow.baml
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2.g.resources
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2.Properties.Resources.resources
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2.csproj.GenerateResource.cache
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2.csproj.CoreCompileInputs.cache
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2.exe
+D:\GitHub\WPF\MultiBinding2\obj\Debug\MultiBinding2.pdb

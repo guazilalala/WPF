@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "全局异常获取", "全局异常获取\全局异常获取.csproj", "{1F6846EF-14FF-4667-8F40-9B08510FBA9E}"
 EndProject
@@ -18,6 +18,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTrigger", "DataTrigger\DataTrigger.csproj", "{ED9E4433-B928-41CB-A48D-18B24EAD0606}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigger另外一个控件", "Trigger另外一个控件\Trigger另外一个控件.csproj", "{87E90846-25A4-4770-B839-85E287079714}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultiBinding", "MultiBinding", "{7E3001E1-512F-4739-8A53-BAF7BD8AB820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBinding", "MultiBinding\MultiBinding.csproj", "{97DD6278-DB32-470B-B4F2-A8C121B5416C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBinding2", "MultiBinding2\MultiBinding2.csproj", "{88A87C10-68FA-4042-966A-8A1EBBF28FBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,8 +63,23 @@ Global
 		{87E90846-25A4-4770-B839-85E287079714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87E90846-25A4-4770-B839-85E287079714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87E90846-25A4-4770-B839-85E287079714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DD6278-DB32-470B-B4F2-A8C121B5416C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DD6278-DB32-470B-B4F2-A8C121B5416C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DD6278-DB32-470B-B4F2-A8C121B5416C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DD6278-DB32-470B-B4F2-A8C121B5416C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A87C10-68FA-4042-966A-8A1EBBF28FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A87C10-68FA-4042-966A-8A1EBBF28FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A87C10-68FA-4042-966A-8A1EBBF28FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A87C10-68FA-4042-966A-8A1EBBF28FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97DD6278-DB32-470B-B4F2-A8C121B5416C} = {7E3001E1-512F-4739-8A53-BAF7BD8AB820}
+		{88A87C10-68FA-4042-966A-8A1EBBF28FBB} = {7E3001E1-512F-4739-8A53-BAF7BD8AB820}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753DD3E4-6DCE-4925-9144-AA6D96E838A7}
 	EndGlobalSection
 EndGlobal

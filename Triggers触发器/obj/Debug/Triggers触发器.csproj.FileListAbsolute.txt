@@ -12,3 +12,4 @@ D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.csproj.GenerateResou
 D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.exe
 D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.pdb
 D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.csprojResolveAssemblyReference.cache
+D:\GitHub\WPF\Triggers触发器\obj\Debug\Triggers触发器.csproj.CoreCompileInputs.cache
