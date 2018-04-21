@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBinding", "MultiBindin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBinding2", "MultiBinding2\MultiBinding2.csproj", "{88A87C10-68FA-4042-966A-8A1EBBF28FBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "属性", "属性", "{0BA69ADD-440E-488A-983B-7C7942D63BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Property", "Property\Property.csproj", "{99AF0A45-13A5-48E4-A215-12F14B63FB62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,10 @@ Global
 		{88A87C10-68FA-4042-966A-8A1EBBF28FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88A87C10-68FA-4042-966A-8A1EBBF28FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88A87C10-68FA-4042-966A-8A1EBBF28FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AF0A45-13A5-48E4-A215-12F14B63FB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AF0A45-13A5-48E4-A215-12F14B63FB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AF0A45-13A5-48E4-A215-12F14B63FB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AF0A45-13A5-48E4-A215-12F14B63FB62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +86,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{97DD6278-DB32-470B-B4F2-A8C121B5416C} = {7E3001E1-512F-4739-8A53-BAF7BD8AB820}
 		{88A87C10-68FA-4042-966A-8A1EBBF28FBB} = {7E3001E1-512F-4739-8A53-BAF7BD8AB820}
+		{99AF0A45-13A5-48E4-A215-12F14B63FB62} = {0BA69ADD-440E-488A-983B-7C7942D63BF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {753DD3E4-6DCE-4925-9144-AA6D96E838A7}
